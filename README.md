@@ -1,6 +1,6 @@
 # Document Timestamp & Verification
 
-Document Timestamp & Verification DApp is powered by storing and retrieving document hashes. It manages the document hashes with a SHA-256 hash in the DApp. Thereafter, it timestamps the document, and the user can verify the document using the hash. This helps to determine if the document was timestamped and provides the timestamp when the document was first recorded.
+The Document Timestamp & Verification DApp is a secure and innovative solution powered by storing and retrieving unique document hashes, leveraging the robust SHA-256 hash function to manage and protect these hashes within the DApp. This process ensures the integrity and authenticity of documents. Thereafter, the DApp timestamps the document, creating a permanent record of its existence. Subsequently, users can verify the document's authenticity using the corresponding hash, which helps to definitively determine if the document was previously timestamped and provides a clear record of when the document was first recorded, ensuring transparency and trustworthiness.
 
 # Installation Instructions
 
